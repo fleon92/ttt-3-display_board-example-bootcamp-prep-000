@@ -4,4 +4,5 @@ def row
 end
 
 def divider
-  puts ""
+  puts "-----------"
+end
